@@ -7,7 +7,7 @@
         "street": "1 Code Lane",
         "city": "Javaville"
         "state": "NSW",
-        "zip": 0100,
+        "zip": "0100",
         "country": "Australia"
 	},
     {
@@ -18,7 +18,7 @@
         "street": "16 Bit Way",
         "city": "Byte Cove"
         "state": "QLD",
-        "zip": 1101,
+        "zip": "1101",
         "country": "Australia"
 	},
     {
@@ -29,7 +29,7 @@
         "street": "8 Silicon Road",
         "city": "Cloud Hills"
         "state": "VIC",
-        "zip": 1001,
+        "zip": "1001",
         "country": "Australia"
 	},
     {
@@ -45,13 +45,13 @@
 	},
     {
         "id": 5,
-        "name": "Mick Green,
+        "name": "Mick Green",
         "phone": "02 9988 1122",
         "department": 3,
         "street": "700 Bandwidth Street",
         "city": "Bufferland"
         "state": "NSW",
-        "zip": 0110,
+        "zip": "0110",
         "country": "Australia"
 	}
 ]
